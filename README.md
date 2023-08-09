@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PanyiP.
 - 👀 I’m interested in Unreal Engine C++, Qt C++ and .NET C# development.
-- 🌱 I’m currently learning Unreal Engine C++ and Qt C++ development.
-- 💞️ I’m looking to collaborate mostly on Unreal Engine game development and Mobile Apps, but I am also interested in almost anythings else. :)
+- 🌱 I’m currently learning .NET, Unreal Engine C++ and Qt C++ development.
+- 💞️ I’m looking to collaborate mostly on Unreal Engine game development, Desktop and Mobile Apps, but I am also interested in almost anythings else. :)
 - 📫 How to reach me ...
 
 
