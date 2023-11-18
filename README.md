@@ -33,12 +33,17 @@
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Learning Projects:</h3>
+<a href="https://panyip.github.io/FrontEndLearning/01-HtmlAndCSS/18-Project-Swipe/index.html">FrontEndLearning - Swipe</a>
+
+<a href="https://panyip.github.io/FrontEndLearning/02-MPElectricSystemsHu/index.html">FrontEndLearning - New company website</a>
+
+<h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panyip&show_icons=true&locale=en&layout=compact" alt="panyip" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panyip&show_icons=true&locale=en" alt="panyip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panyip&" alt="panyip" /></p>
-
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64bcc4e58b7b0932737d7f1d?variant=dark)](https://roadmap.sh)
 
