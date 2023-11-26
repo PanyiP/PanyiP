@@ -34,9 +34,20 @@
 </p>
 
 <h3 align="left">Learning Projects:</h3>
+
 <a href="https://panyip.github.io/FrontEndLearning/01-HtmlAndCSS/18-Project-Swipe/index.html">FrontEndLearning - Swipe</a>
 
-<a href="https://panyip.github.io/FrontEndLearning/02-MPElectricSystemsHu/index.html">FrontEndLearning - New company website</a>
+<a href="https://panyip.github.io/FrontEndLearning/02-MPElectricSystemsHu/index.html">FrontEndLearning - The new version of my company website</a>
+
+<a href="https://panyip.github.io/FrontEndLearning/04-Bootstrap5/04-EBook-Website/index.html">FrontEndLearning - EBook example website</a>
+
+<a href="https://panyip.github.io/FrontEndLearning/04-Bootstrap5/05-Corso-Training-Website/index.html">FrontEndLearning - Corso Training example website</a>
+
+<a href="https://panyip.github.io/FrontEndLearning/04-Bootstrap5/06-Portfolio-Website/index.html">FrontEndLearning - Portfolio example website</a>
+
+<a href="https://panyip.github.io/FrontEndLearning/04-Bootstrap5/07-Yavin-Office-Design-Website/index.html">FrontEndLearning - Yavin Office Design example website</a>
+
+<a href="https://panyip.github.io/FrontEndLearning/04-Bootstrap5/08-Vera-Software-Solutions-Website/index.html">FrontEndLearning - Vera Software Solutions example websitee</a>
 
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panyip&show_icons=true&locale=en&layout=compact" alt="panyip" /></p>
