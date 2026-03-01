@@ -4,13 +4,6 @@
 <h1 align="center">Hi 👋, I'm Peter Panyi</h1>
 <h3 align="center">A professional and passionate .NET developer from Hungary.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panyip&label=Profile%20views&color=0e75b6&style=flat" alt="panyip" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panyip" alt="panyip" /></a> </p>
-
-- 🌱 I’m currently learning **.NET Blazor web development**
-- 👨‍💻 All of my references are available at my company website: [mpelectricsystems.hu](mpelectricsystems.hu/software)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/peterpanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peterpanyi" height="30" width="40" /></a>
@@ -52,9 +45,6 @@
 <a href="https://panyip.github.io/FrontEndLearning/05-HairdresserDemo/index.html">FrontEndLearning - Hairdresser Demo website</a>
 
 <h3 align="left">Statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panyip&show_icons=true&locale=en&layout=compact" alt="panyip" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panyip&show_icons=true&locale=en" alt="panyip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panyip&" alt="panyip" /></p>
 
